@@ -235,6 +235,53 @@
       ],
       "createdAt": "2026-06-11T09:28:32",
       "updatedAt": "2026-06-11T09:28:32"
+    },
+    {
+      "id": "e3bf85bf53e24a82895c87c09caf26b5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883730",
+        "Tên Bưu cục": "QUỐC THÁI",
+        "Họ và tên người sử dụng": "TRẦN THỊ NGỌC SOÀN",
+        "Mã HRM": "00258521",
+        "Bộ phận / Phòng ban": "APU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-APU-QTI-SOA",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z296",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.1.33",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "TSC",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CINO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:25:04",
+      "updatedAt": "2026-06-11T09:25:04"
     }
   ]
 }
