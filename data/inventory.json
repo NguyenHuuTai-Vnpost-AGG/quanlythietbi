@@ -282,6 +282,53 @@
       ],
       "createdAt": "2026-06-11T09:25:04",
       "updatedAt": "2026-06-11T09:25:04"
+    },
+    {
+      "id": "2488b0d03a6c4ed8b83bcc9faf34cbb4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "922280",
+        "Tên Xã": "An Thới",
+        "Mã Bưu cục": "922280",
+        "Tên Bưu cục": "An Thới 1",
+        "Họ và tên người sử dụng": "Đoàn Phát Đạt",
+        "Mã HRM": "00039217",
+        "Bộ phận / Phòng ban": "XLNV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-KFL0TQ5",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7E05",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "456 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.95.29.30",
+        "MAC Address": "D8:43:AE:C0:03:AE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "intermec-pc43d",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "Canon LBP 3050",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:25:20",
+      "updatedAt": "2026-06-11T09:25:20"
     }
   ]
 }
