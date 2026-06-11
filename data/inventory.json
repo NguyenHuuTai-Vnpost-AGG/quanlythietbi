@@ -418,6 +418,53 @@
       ],
       "createdAt": "2026-06-11T09:39:35",
       "updatedAt": "2026-06-11T09:39:35"
+    },
+    {
+      "id": "ed1da15353f840de920c2706c8375dd0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "9218",
+        "Tên Xã": "BCVH KIÊN LƯƠNG",
+        "Mã Bưu cục": "921980",
+        "Tên Bưu cục": "BCVH KIÊN LƯƠNG",
+        "Họ và tên người sử dụng": "NGUYỄN QUỐC BẢO TRÂM",
+        "Mã HRM": "00039383",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-C9J0BVS",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "AMD Athlon 200GE with Radeon Vega Graphics",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.25.6",
+        "MAC Address": "04:D9:F5:37:39:3E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZDesigner ZD620-203dpi ZPL",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:31:12",
+      "updatedAt": "2026-06-11T09:31:12"
     }
   ]
 }
