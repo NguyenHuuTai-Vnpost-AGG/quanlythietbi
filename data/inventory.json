@@ -502,6 +502,48 @@
       ],
       "createdAt": "2026-06-11T09:43:27",
       "updatedAt": "2026-06-11T09:43:27"
+    },
+    {
+      "id": "18dc9939c035431a9464baf4736bea04",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "883000",
+        "Tên Xã": "Châu Đốc",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "Châu Đốc",
+        "Họ và tên người sử dụng": "Hồ Thị Bích Trâm",
+        "Mã HRM": "00000902",
+        "Bộ phận / Phòng ban": "Phòng Tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-CDC-TUYETPH",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z18Y",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.94.39.43",
+        "MAC Address": "E8:80:88:BE:2F:F9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro 400",
+          "serial": "VNH5C08000"
+        },
+        {
+          "type": "scanner",
+          "name": "HP ScanJet Pro 2500f1",
+          "serial": "CN79JA10H2"
+        }
+      ],
+      "createdAt": "2026-06-11T09:52:37",
+      "updatedAt": "2026-06-11T09:52:37"
     }
   ]
 }
