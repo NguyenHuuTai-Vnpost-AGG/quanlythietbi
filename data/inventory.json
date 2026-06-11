@@ -67,6 +67,48 @@
       ],
       "createdAt": "2026-06-11T09:19:00",
       "updatedAt": "2026-06-11T09:19:00"
+    },
+    {
+      "id": "02cc428d564c478db2afe24217a248df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "922560",
+        "Tên Bưu cục": "BCVH AN BIÊN",
+        "Họ và tên người sử dụng": "DANH THỊ THANH THÚY",
+        "Mã HRM": "00039887",
+        "Bộ phận / Phòng ban": "BƯU CỤC VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-AB-KHAITHAC",
+        "Loại máy": "Desktop",
+        "Hãng": "Default string",
+        "Model": "Default string",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "260 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.35.17",
+        "MAC Address": "2A:06:E1:25:0A:FE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TSC TE310",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CINO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:21:31",
+      "updatedAt": "2026-06-11T09:21:31"
     }
   ]
 }
