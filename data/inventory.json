@@ -670,6 +670,43 @@
       ],
       "createdAt": "2026-06-11T09:57:31",
       "updatedAt": "2026-06-11T09:57:31"
+    },
+    {
+      "id": "36e7d7d318d24eb997f77f1db0be9424",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "BƯU ĐIỆN CHÂU ĐÔC",
+        "Họ và tên người sử dụng": "TRẦN THỊ BÉ TÁM",
+        "Mã HRM": "00000906",
+        "Bộ phận / Phòng ban": "TỔ GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-CDC-GD01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19044",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.94.39.8",
+        "MAC Address": "94:DE:80:12:87:C9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:56:55",
+      "updatedAt": "2026-06-11T09:56:55"
     }
   ]
 }
