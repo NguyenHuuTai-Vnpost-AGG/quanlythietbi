@@ -707,6 +707,43 @@
       ],
       "createdAt": "2026-06-11T09:56:55",
       "updatedAt": "2026-06-11T09:56:55"
+    },
+    {
+      "id": "6bfa0d7e53f94c388a6ee0d4abbb481a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "883000",
+        "Tên Xã": "Châu Đốc",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "Châu Đốc",
+        "Họ và tên người sử dụng": "Từ Phan Tuyết Phương",
+        "Mã HRM": "00000915",
+        "Bộ phận / Phòng ban": "Tài Chính Kế Hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-CDC-KT-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.94.39.9",
+        "MAC Address": "FC:AA:14:50:4B:EF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-11T10:07:12",
+      "updatedAt": "2026-06-11T10:07:12"
     }
   ]
 }
