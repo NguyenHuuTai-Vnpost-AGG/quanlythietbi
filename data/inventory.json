@@ -151,6 +151,48 @@
       ],
       "createdAt": "2026-06-11T09:22:46",
       "updatedAt": "2026-06-11T09:22:46"
+    },
+    {
+      "id": "8af634353b2a43c9a92e255fc3ca48f8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCVH AN BIÊN",
+        "Tên Xã": "ẤP 2 - XÃ AN BIÊN - TỈNH AN GIANG",
+        "Mã Bưu cục": "922560",
+        "Tên Bưu cục": "BCVH AN BIÊN",
+        "Họ và tên người sử dụng": "Đỗ Phương Ngọc",
+        "Mã HRM": "00104436",
+        "Bộ phận / Phòng ban": "BCVH AN BIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "máy tính bàn",
+        "Loại máy": "DELL",
+        "Hãng": "DELL",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:27:07",
+      "updatedAt": "2026-06-11T09:27:07"
     }
   ]
 }
