@@ -486,6 +486,37 @@
       ],
       "createdAt": "2026-06-08T10:27:42",
       "updatedAt": "2026-06-08T10:27:42"
+    },
+    {
+      "id": "647cef3a3a184268a81bc0da6d969e3b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480900",
+        "Tên Bưu cục": "test",
+        "Họ và tên người sử dụng": "nguyễn huux tài",
+        "Mã HRM": "0044442",
+        "Bộ phận / Phòng ban": "CNTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-KTNV-TAINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9XPS8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "11.8 GB",
+        "Ổ cứng": "718 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.94.70.41",
+        "MAC Address": "B8:85:84:B1:2C:4D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T08:37:54",
+      "updatedAt": "2026-06-11T08:37:54"
     }
   ]
 }
