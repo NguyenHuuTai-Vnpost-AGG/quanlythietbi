@@ -329,6 +329,48 @@
       ],
       "createdAt": "2026-06-11T09:25:20",
       "updatedAt": "2026-06-11T09:25:20"
+    },
+    {
+      "id": "bd46286b126747dc994531a355699304",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Châu Đốc",
+        "Tên Xã": "Châu Đốc",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "Châu Đốc",
+        "Họ và tên người sử dụng": "Nguyễn Văn Đăng",
+        "Mã HRM": "00000888",
+        "Bộ phận / Phòng ban": "Giám đốc BĐP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-CDC-DANGNV",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z28G",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "349 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.182",
+        "MAC Address": "E8:80:88:7C:AD:57"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Enterprise M406",
+          "serial": "PHCBG08673"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS2208",
+          "serial": "18049010501160"
+        }
+      ],
+      "createdAt": "2026-06-11T09:34:05",
+      "updatedAt": "2026-06-11T09:34:05"
     }
   ]
 }
