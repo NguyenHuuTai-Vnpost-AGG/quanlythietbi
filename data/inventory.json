@@ -544,6 +544,48 @@
       ],
       "createdAt": "2026-06-11T09:52:37",
       "updatedAt": "2026-06-11T09:52:37"
+    },
+    {
+      "id": "e68a103c2ea54b8f8788db5eb0aca6e3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "BƯU ĐIỆN CHÂU ĐỐC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ PHỤNG",
+        "Mã HRM": "0000031",
+        "Bộ phận / Phòng ban": "TỔ GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "",
+        "IP Address": "10.94.39.27",
+        "MAC Address": "90:2B:34:74:04:ED"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:53:56",
+      "updatedAt": "2026-06-11T09:53:56"
     }
   ]
 }
