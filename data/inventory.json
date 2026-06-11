@@ -371,6 +371,53 @@
       ],
       "createdAt": "2026-06-11T09:34:05",
       "updatedAt": "2026-06-11T09:34:05"
+    },
+    {
+      "id": "ee1ca9a111f2426eb8e82009496bc302",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "Bưu điện Châu Đốc",
+        "Họ và tên người sử dụng": "Phạm Nguyễn Phi Anh",
+        "Mã HRM": "00000932",
+        "Bộ phận / Phòng ban": "quầy số 1 giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-D3H",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.39.53",
+        "MAC Address": "FC:AA:14:55:DA:03"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:39:35",
+      "updatedAt": "2026-06-11T09:39:35"
     }
   ]
 }
