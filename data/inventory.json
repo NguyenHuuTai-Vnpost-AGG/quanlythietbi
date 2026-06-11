@@ -109,6 +109,48 @@
       ],
       "createdAt": "2026-06-11T09:21:31",
       "updatedAt": "2026-06-11T09:21:31"
+    },
+    {
+      "id": "bed7a8745b9b4a2091339891ef0c200a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Bưu Điện An Minh",
+        "Tên Xã": "An Minh",
+        "Mã Bưu cục": "922750",
+        "Tên Bưu cục": "Bưu cục vận hành An Minh",
+        "Họ và tên người sử dụng": "Võ Tuyết Hằng",
+        "Mã HRM": "00269104",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ThinkVision",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TSC",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "Imarcone",
+          "serial": "MC-3003HRB"
+        }
+      ],
+      "createdAt": "2026-06-11T09:22:46",
+      "updatedAt": "2026-06-11T09:22:46"
     }
   ]
 }
