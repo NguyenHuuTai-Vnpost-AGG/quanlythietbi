@@ -623,6 +623,53 @@
       ],
       "createdAt": "2026-06-11T09:54:35",
       "updatedAt": "2026-06-11T09:54:35"
+    },
+    {
+      "id": "c50b6f7f330249cdb0695af26052ddb4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "BƯU ĐIỆN CHÂU ĐỐC",
+        "Họ và tên người sử dụng": "NGUYỄN THANH HÀ",
+        "Mã HRM": "00262310",
+        "Bộ phận / Phòng ban": "TỔ GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-CDC-GD02",
+        "Loại máy": "Desktop",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "",
+        "IP Address": "10.94.39.40",
+        "MAC Address": "4C:72:B9:56:23:8B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:57:31",
+      "updatedAt": "2026-06-11T09:57:31"
     }
   ]
 }
