@@ -586,6 +586,43 @@
       ],
       "createdAt": "2026-06-11T09:53:56",
       "updatedAt": "2026-06-11T09:53:56"
+    },
+    {
+      "id": "25636fc1c52945e69b51dd68d4eb1331",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "883000",
+        "Tên Xã": "CHÂU ĐỐC",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "BƯU CỤC CHÂU ĐỐC",
+        "Họ và tên người sử dụng": "LÊ HÀ ANH PHƯƠNG",
+        "Mã HRM": "00000930",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-24F104E",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "2VYBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.39.11",
+        "MAC Address": "F8:BC:12:A5:7B:33"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:54:35",
+      "updatedAt": "2026-06-11T09:54:35"
     }
   ]
 }
