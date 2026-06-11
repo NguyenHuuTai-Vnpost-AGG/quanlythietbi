@@ -30,6 +30,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T08:40:48",
       "updatedAt": "2026-06-11T08:40:48"
+    },
+    {
+      "id": "627cfd6de2334cd6a086ee331fbc376d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8812",
+        "Tên Bưu cục": "Bưu điện xã An Phú",
+        "Họ và tên người sử dụng": "Trần Kiên",
+        "Mã HRM": "00099796",
+        "Bộ phận / Phòng ban": "VP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z120",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.94.41.19",
+        "MAC Address": "E8:80:88:A4:2F:74"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Enterprise M406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:19:00",
+      "updatedAt": "2026-06-11T09:19:00"
     }
   ]
 }
