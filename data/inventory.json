@@ -744,6 +744,43 @@
       ],
       "createdAt": "2026-06-11T10:07:12",
       "updatedAt": "2026-06-11T10:07:12"
+    },
+    {
+      "id": "ddd686616f16470abff889b778f55d66",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "924660",
+        "Tên Bưu cục": "BCVH U MINH THƯỢNG",
+        "Họ và tên người sử dụng": "TRẦN TUYẾT BĂNG",
+        "Mã HRM": "00251277",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-UMT-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "29ZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.51.44",
+        "MAC Address": "F8:BC:12:A4:3A:AE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T00:27:13",
+      "updatedAt": "2026-06-12T00:27:13"
     }
   ]
 }
