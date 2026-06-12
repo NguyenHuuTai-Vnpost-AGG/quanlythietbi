@@ -1369,6 +1369,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T02:11:58",
       "updatedAt": "2026-06-12T02:11:58"
+    },
+    {
+      "id": "26d1bb287c2748b5b4a8c44dc9a26311",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883720",
+        "Tên Bưu cục": "BƯU ĐIỆN KHÁNH BÌNH NHƠN HỘI",
+        "Họ và tên người sử dụng": "HÀ THANH TÙNG",
+        "Mã HRM": "00107090",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-E31DCV6",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3471",
+        "Năm sản xuất": "",
+        "Serial Number": "GL18R33",
+        "CPU": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.41.10",
+        "MAC Address": "E4:54:E8:DE:C2:E1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASER JET ENTERPRISE",
+          "serial": "M406"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        }
+      ],
+      "createdAt": "2026-06-12T02:29:45",
+      "updatedAt": "2026-06-12T02:29:45"
     }
   ]
 }
