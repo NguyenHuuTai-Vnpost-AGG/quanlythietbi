@@ -2133,6 +2133,43 @@
       ],
       "createdAt": "2026-06-12T08:58:09",
       "updatedAt": "2026-06-12T08:58:09"
+    },
+    {
+      "id": "a22558f9bea24b3480aacfef129f8677",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920100",
+        "Tên Bưu cục": "BC KT",
+        "Họ và tên người sử dụng": "BC KT",
+        "Mã HRM": "920100",
+        "Bộ phận / Phòng ban": "BC KT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-TTKTVC-KT1-",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1H3",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Personal 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.47.145",
+        "MAC Address": "E8:80:88:A4:2F:69"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        }
+      ],
+      "createdAt": "2026-06-12T09:32:02",
+      "updatedAt": "2026-06-12T09:32:02"
     }
   ]
 }
