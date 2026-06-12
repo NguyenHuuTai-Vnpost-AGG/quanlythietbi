@@ -2460,6 +2460,48 @@
       ],
       "createdAt": "2026-06-12T09:43:34",
       "updatedAt": "2026-06-12T09:43:34"
+    },
+    {
+      "id": "bf803433306d43faa6517aebca5880ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921350",
+        "Tên Bưu cục": "BC KHL RG",
+        "Họ và tên người sử dụng": "BC KHL RG",
+        "Mã HRM": "921350",
+        "Bộ phận / Phòng ban": "BC KHL RG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-RG-GDAH11",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1KZ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.47.137",
+        "MAC Address": "E8:80:88:A4:32:47"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CAONON2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:51:01",
+      "updatedAt": "2026-06-12T09:51:01"
     }
   ]
 }
