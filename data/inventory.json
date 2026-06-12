@@ -781,6 +781,43 @@
       ],
       "createdAt": "2026-06-12T00:27:13",
       "updatedAt": "2026-06-12T00:27:13"
+    },
+    {
+      "id": "7e7e2b81e2f342e0afac9b2b31e54417",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "AN MINH",
+        "Mã Bưu cục": "0922750",
+        "Tên Bưu cục": "BCVH An",
+        "Họ và tên người sử dụng": "Võ Thị Bích Thủy",
+        "Mã HRM": "00275227",
+        "Bộ phận / Phòng ban": "BCVH An Minh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CTO-BDH-DP7",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0NL",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise G  10.0.22631",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Malwarebytes, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.36.230",
+        "MAC Address": "E8:80:88:B4:3F:B2"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "hp Laser Enterprise M406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T00:53:09",
+      "updatedAt": "2026-06-12T00:53:09"
     }
   ]
 }
