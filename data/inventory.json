@@ -1191,6 +1191,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T01:46:52",
       "updatedAt": "2026-06-12T01:46:52"
+    },
+    {
+      "id": "b7c840f8e69c490393230ddc76d153d3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921032",
+        "Tên Bưu cục": "BCVH Rach Gia",
+        "Họ và tên người sử dụng": "BCVH Rach Gia",
+        "Mã HRM": "92103202",
+        "Bộ phận / Phòng ban": "BCVH Rach Gia",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-RJSNK8F",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z2B3",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.95.47.133",
+        "MAC Address": "E8:80:88:C3:C9:B2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T01:49:03",
+      "updatedAt": "2026-06-12T01:49:03"
     }
   ]
 }
