@@ -939,6 +939,48 @@
       ],
       "createdAt": "2026-06-12T01:16:37",
       "updatedAt": "2026-06-12T01:16:37"
+    },
+    {
+      "id": "8140d5e2b563446fa9ba174d2dbd9df5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920900",
+        "Tên Bưu cục": "BC He 1",
+        "Họ và tên người sử dụng": "BC He 1",
+        "Mã HRM": "9209002",
+        "Bộ phận / Phòng ban": "BC He 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-KTVC-HE1-M1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B0KR8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "253 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.47.50",
+        "MAC Address": "B8:85:84:B1:20:81"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP406",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T01:20:12",
+      "updatedAt": "2026-06-12T01:20:12"
     }
   ]
 }
