@@ -1453,6 +1453,48 @@
       ],
       "createdAt": "2026-06-12T02:30:02",
       "updatedAt": "2026-06-12T02:30:02"
+    },
+    {
+      "id": "468255a7dfc0478b8d7ba6bbdd916652",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883790",
+        "Tên Bưu cục": "BCVH AN PHÚ",
+        "Họ và tên người sử dụng": "HUỲNH THỊ THẢO TRANG",
+        "Mã HRM": "00001340",
+        "Bộ phận / Phòng ban": "BC VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-APU-TRANGHT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9XDM8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.94.41.13",
+        "MAC Address": "B8:85:84:AF:40:39"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "2900"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "TSC",
+          "serial": "TE310"
+        }
+      ],
+      "createdAt": "2026-06-12T02:32:18",
+      "updatedAt": "2026-06-12T02:32:18"
     }
   ]
 }
