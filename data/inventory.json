@@ -2244,6 +2244,43 @@
       ],
       "createdAt": "2026-06-12T09:34:46",
       "updatedAt": "2026-06-12T09:34:46"
+    },
+    {
+      "id": "da9cd3b45ae7458ca9cb48331d884aba",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921032",
+        "Tên Bưu cục": "BCVH RACH GIA",
+        "Họ và tên người sử dụng": "BCVH RACH GIA",
+        "Mã HRM": "921032",
+        "Bộ phận / Phòng ban": "BCVH RACH GIA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DOIKIEM-BD8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "7NZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Avast Antivirus",
+        "IP Address": "10.95.47.186",
+        "MAC Address": "F8:BC:12:A4:39:89"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:36:43",
+      "updatedAt": "2026-06-12T09:36:43"
     }
   ]
 }
