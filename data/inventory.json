@@ -1731,6 +1731,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T03:15:45",
       "updatedAt": "2026-06-12T03:15:45"
+    },
+    {
+      "id": "1487564da2194c58915e20d20e790865",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883190",
+        "Tên Bưu cục": "BC NÚI SAM",
+        "Họ và tên người sử dụng": "THÁI PHƯƠNG KIỀU",
+        "Mã HRM": "00102936",
+        "Bộ phận / Phòng ban": "BC NÚI SAM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z19J",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.1.118",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:32:23",
+      "updatedAt": "2026-06-12T03:32:23"
     }
   ]
 }
