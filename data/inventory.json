@@ -818,6 +818,43 @@
       ],
       "createdAt": "2026-06-12T00:53:09",
       "updatedAt": "2026-06-12T00:53:09"
+    },
+    {
+      "id": "795234fc0f044c6f81a1c9be9be0c970",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883700",
+        "Tên Bưu cục": "Bưu Cục An Phú",
+        "Họ và tên người sử dụng": "Huỳnh Thị Yến Phi",
+        "Mã HRM": "00110470",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-APU-GD2-PHI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3471",
+        "Năm sản xuất": "",
+        "Serial Number": "GMW0R33",
+        "CPU": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "1051 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "192.168.1.28",
+        "MAC Address": "D8:12:65:BA:0A:29"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T00:54:14",
+      "updatedAt": "2026-06-12T00:54:14"
     }
   ]
 }
