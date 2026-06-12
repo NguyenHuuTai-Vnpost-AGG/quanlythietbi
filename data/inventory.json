@@ -1956,6 +1956,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T06:55:04",
       "updatedAt": "2026-06-12T06:55:04"
+    },
+    {
+      "id": "a18c861e39cc4364ab4ef1d2cd90057f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "883100",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883100",
+        "Tên Bưu cục": "CHÂU ĐỐC - VHX PHƯỜNG B",
+        "Họ và tên người sử dụng": "ĐỖ THỊ TRINH",
+        "Mã HRM": "00000935",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-CDC-CPB-TRI",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "188 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "00:E0:4C:36:41:74"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET PRO M203d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:16:19",
+      "updatedAt": "2026-06-12T08:16:19"
     }
   ]
 }
