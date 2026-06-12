@@ -2086,6 +2086,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:45:27",
       "updatedAt": "2026-06-12T09:45:27"
+    },
+    {
+      "id": "9cb71bf7d1f8462ea8578c5cc921785b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8813",
+        "Tên Xã": "BA CHÚC",
+        "Mã Bưu cục": "884490",
+        "Tên Bưu cục": "Xã Vĩnh Gia",
+        "Họ và tên người sử dụng": "Hứa Thị Luận",
+        "Mã HRM": "00001250",
+        "Bộ phận / Phòng ban": "Văn Hoá Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-H4IGEJJ",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3W251H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "48:4D:7E:D7:2C:1A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:58:09",
+      "updatedAt": "2026-06-12T08:58:09"
     }
   ]
 }
