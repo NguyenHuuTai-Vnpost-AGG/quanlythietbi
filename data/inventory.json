@@ -1616,6 +1616,48 @@
       ],
       "createdAt": "2026-06-12T02:54:09",
       "updatedAt": "2026-06-12T02:54:09"
+    },
+    {
+      "id": "f9cb721ab7e04f0ea9118c7cf2af2402",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "884410",
+        "Tên Bưu cục": "BCVH TRI TÔN",
+        "Họ và tên người sử dụng": "TÔN MỸ HUYỀN",
+        "Mã HRM": "00071002",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0NP",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "10.94.51.109",
+        "MAC Address": "E8:80:88:B4:3A:4D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T02:55:44",
+      "updatedAt": "2026-06-12T02:55:44"
     }
   ]
 }
