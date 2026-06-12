@@ -1228,6 +1228,43 @@
       ],
       "createdAt": "2026-06-12T01:49:03",
       "updatedAt": "2026-06-12T01:49:03"
+    },
+    {
+      "id": "e2cd22e30e4b4dcaa045d222a5722a1b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920100",
+        "Tên Bưu cục": "BC KT",
+        "Họ và tên người sử dụng": "BC KT",
+        "Mã HRM": "92010013",
+        "Bộ phận / Phòng ban": "BC KT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-TTKTVC-H1",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0NJ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.47.136",
+        "MAC Address": "E8:80:88:B4:3E:72"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TSC",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T01:50:37",
+      "updatedAt": "2026-06-12T01:50:37"
     }
   ]
 }
