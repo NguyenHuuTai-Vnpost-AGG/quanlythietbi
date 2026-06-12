@@ -2423,6 +2423,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:42:25",
       "updatedAt": "2026-06-12T09:42:25"
+    },
+    {
+      "id": "40e96737854c4c84935511b289a1b344",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921032",
+        "Tên Bưu cục": "BCVH RACH GIA",
+        "Họ và tên người sử dụng": "BCVH RACH GIA",
+        "Mã HRM": "921032",
+        "Bộ phận / Phòng ban": "BCVH RACH GIA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "COD1",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0KM",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.95.47.49",
+        "MAC Address": "E8:80:88:B8:AE:90"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:43:34",
+      "updatedAt": "2026-06-12T09:43:34"
     }
   ]
 }
