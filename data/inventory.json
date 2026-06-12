@@ -1049,6 +1049,43 @@
       ],
       "createdAt": "2026-06-12T01:39:30",
       "updatedAt": "2026-06-12T01:39:30"
+    },
+    {
+      "id": "737b8ca8f3b14268a137897e82170300",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920100",
+        "Tên Bưu cục": "BC KT",
+        "Họ và tên người sử dụng": "BC KT",
+        "Mã HRM": "92010010",
+        "Bộ phận / Phòng ban": "BC KT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-TTKTVC-BD10",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1MN",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, 360 Total Security",
+        "IP Address": "10.95.47.31",
+        "MAC Address": "E8:80:88:A4:30:79"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T01:42:00",
+      "updatedAt": "2026-06-12T01:42:00"
     }
   ]
 }
