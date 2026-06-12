@@ -2675,6 +2675,53 @@
       ],
       "createdAt": "2026-06-12T09:44:13",
       "updatedAt": "2026-06-12T09:44:13"
+    },
+    {
+      "id": "126c2899bede46698b69504546310f02",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921350",
+        "Tên Bưu cục": "BC KHL RACH GIA",
+        "Họ và tên người sử dụng": "BC KHL RACH GIA",
+        "Mã HRM": "921350",
+        "Bộ phận / Phòng ban": "BC KHL RACH GIA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-RG-GDAH09",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9X9Q8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "133 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.47.148",
+        "MAC Address": "B8:85:84:AF:3D:99"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:00:29",
+      "updatedAt": "2026-06-12T10:00:29"
     }
   ]
 }
