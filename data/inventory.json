@@ -2502,6 +2502,53 @@
       ],
       "createdAt": "2026-06-12T09:51:01",
       "updatedAt": "2026-06-12T09:51:01"
+    },
+    {
+      "id": "da90a4bbaf0048bbaa6ac19e7d3c2324",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921350",
+        "Tên Bưu cục": "BC KHL RACH GIA",
+        "Họ và tên người sử dụng": "BC KHL RACH GIA",
+        "Mã HRM": "921350",
+        "Bộ phận / Phòng ban": "BC KHL RACH GIA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHL",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "M11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0K2",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Reason Cybersecurity, Windows Defender",
+        "IP Address": "10.95.47.223",
+        "MAC Address": "C4:C6:E6:24:EB:FB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CINO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:53:40",
+      "updatedAt": "2026-06-12T09:53:40"
     }
   ]
 }
