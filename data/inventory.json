@@ -1265,6 +1265,37 @@
       ],
       "createdAt": "2026-06-12T01:50:37",
       "updatedAt": "2026-06-12T01:50:37"
+    },
+    {
+      "id": "1a270023c3f64de5a5ece503bc6ef225",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921032",
+        "Tên Bưu cục": "BCVH Rach Gia",
+        "Họ và tên người sử dụng": "BCVH Rach Gia",
+        "Mã HRM": "92103211",
+        "Bộ phận / Phòng ban": "BCVH Rach Gia",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-TTKGVC-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0RT",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.95.47.144",
+        "MAC Address": "E8:80:88:B8:A6:03"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T01:53:07",
+      "updatedAt": "2026-06-12T01:53:07"
     }
   ]
 }
