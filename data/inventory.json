@@ -1495,6 +1495,53 @@
       ],
       "createdAt": "2026-06-12T02:32:18",
       "updatedAt": "2026-06-12T02:32:18"
+    },
+    {
+      "id": "00ae58727fb74b59a9820dc9aaedf07e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883790",
+        "Tên Bưu cục": "AN PHÚ",
+        "Họ và tên người sử dụng": "PHẠM DUY MINH",
+        "Mã HRM": "00001360",
+        "Bộ phận / Phòng ban": "XỬ LÝ  NGHIỆP VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "APU-GDV-MINH",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z17Q",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.94.41.12",
+        "MAC Address": "E8:80:88:B8:A6:F7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "1"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "1"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CINO",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-12T02:33:06",
+      "updatedAt": "2026-06-12T02:33:06"
     }
   ]
 }
