@@ -2170,6 +2170,43 @@
       ],
       "createdAt": "2026-06-12T09:32:02",
       "updatedAt": "2026-06-12T09:32:02"
+    },
+    {
+      "id": "b5de0dfac5904a52bad2e2195d8c71a1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920100",
+        "Tên Bưu cục": "BC KT",
+        "Họ và tên người sử dụng": "BC KT",
+        "Mã HRM": "920100",
+        "Bộ phận / Phòng ban": "BC KT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-TTKTVC-BD10",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GCK0TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.10240",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:33:26",
+      "updatedAt": "2026-06-12T09:33:26"
     }
   ]
 }
