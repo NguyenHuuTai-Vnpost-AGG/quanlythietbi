@@ -1160,6 +1160,37 @@
       ],
       "createdAt": "2026-06-12T01:45:15",
       "updatedAt": "2026-06-12T01:45:15"
+    },
+    {
+      "id": "b6f9c64eea1e4398a5e8637f30529c7e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920100",
+        "Tên Bưu cục": "BC KT",
+        "Họ và tên người sử dụng": "BC KT",
+        "Mã HRM": "9201000001",
+        "Bộ phận / Phòng ban": "BC KT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-TTKTVC-SVR",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G884TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "19.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.95.47.100",
+        "MAC Address": "B8:85:84:A7:32:62"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T01:46:52",
+      "updatedAt": "2026-06-12T01:46:52"
     }
   ]
 }
