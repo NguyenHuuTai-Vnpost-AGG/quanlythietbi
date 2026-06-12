@@ -1841,6 +1841,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T04:05:13",
       "updatedAt": "2026-06-12T04:05:13"
+    },
+    {
+      "id": "1f686c2edd484bd8a2f65df9dfd7874d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883090",
+        "Tên Bưu cục": "BCVH Châu Đốc",
+        "Họ và tên người sử dụng": "Phạm Tuyết Hồng",
+        "Mã HRM": "00000890",
+        "Bộ phận / Phòng ban": "Lên đơn điều tin, Đóng chuyến thư",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "7,7 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.39.60",
+        "MAC Address": "D0:27:88:C4:27:9A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-350b - Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol - Z3EHHD",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:38:21",
+      "updatedAt": "2026-06-12T04:38:21"
     }
   ]
 }
