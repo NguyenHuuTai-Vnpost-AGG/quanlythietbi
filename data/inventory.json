@@ -902,6 +902,43 @@
       ],
       "createdAt": "2026-06-12T01:07:17",
       "updatedAt": "2026-06-12T01:07:17"
+    },
+    {
+      "id": "29e73200dd434564bbd32f56bd2e2e60",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920900",
+        "Tên Bưu cục": "BC He 1",
+        "Họ và tên người sử dụng": "BC He 1",
+        "Mã HRM": "920900_02",
+        "Bộ phận / Phòng ban": "BC He 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-KTVC-HE1-M2",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1QC",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.95.47.51",
+        "MAC Address": "E8:80:88:7C:AB:23"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T01:16:37",
+      "updatedAt": "2026-06-12T01:16:37"
     }
   ]
 }
