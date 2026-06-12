@@ -1993,6 +1993,37 @@
       ],
       "createdAt": "2026-06-12T08:16:19",
       "updatedAt": "2026-06-12T08:16:19"
+    },
+    {
+      "id": "1f8188ec84f54a7083c06f764a521ed8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "TRI TÔN",
+        "Mã Bưu cục": "884362",
+        "Tên Bưu cục": "VHX CHÂU LĂNG",
+        "Họ và tên người sử dụng": "LÊ THỊ KIM NGỌC",
+        "Mã HRM": "00218076",
+        "Bộ phận / Phòng ban": "GD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-TTN-CLG-NGO",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0L7",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "E8:80:88:B8:AB:95"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:26:27",
+      "updatedAt": "2026-06-12T08:26:27"
     }
   ]
 }
