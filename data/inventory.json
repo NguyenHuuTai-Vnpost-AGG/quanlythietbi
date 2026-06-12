@@ -1296,6 +1296,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T01:53:07",
       "updatedAt": "2026-06-12T01:53:07"
+    },
+    {
+      "id": "40bfe396fa344690a0447a5182c16a93",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "883860",
+        "Tên Xã": "an phú",
+        "Mã Bưu cục": "883860",
+        "Tên Bưu cục": "vhx phước hưng",
+        "Họ và tên người sử dụng": "trần thị bích phượng",
+        "Mã HRM": "00001389",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-APU-PHG-PHU",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06T4J4",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.1.42",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T02:06:03",
+      "updatedAt": "2026-06-12T02:06:03"
     }
   ]
 }
