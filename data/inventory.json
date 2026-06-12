@@ -1338,6 +1338,37 @@
       ],
       "createdAt": "2026-06-12T02:06:03",
       "updatedAt": "2026-06-12T02:06:03"
+    },
+    {
+      "id": "fc986c1040614c248085ab45d4a91276",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "884420",
+        "Tên Bưu cục": "VHX LƯƠNG AN TRÀ",
+        "Họ và tên người sử dụng": "PHÙNG THỊ QUYÊN TRÂN",
+        "Mã HRM": "00071013",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-TTN-LATRA",
+        "Loại máy": "Desktop",
+        "Hãng": "Default string",
+        "Model": "Default string",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "2A:04:E0:10:01:28"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T02:11:58",
+      "updatedAt": "2026-06-12T02:11:58"
     }
   ]
 }
