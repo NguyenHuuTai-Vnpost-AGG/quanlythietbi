@@ -1700,6 +1700,37 @@
       ],
       "createdAt": "2026-06-12T03:14:54",
       "updatedAt": "2026-06-12T03:14:54"
+    },
+    {
+      "id": "e2d90a19ccfc4e5ab118c0937bc00e4f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "Chau Doc",
+        "Họ và tên người sử dụng": "Quach Phuong Uyen",
+        "Mã HRM": "00104410",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FR0TPEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020",
+        "Năm sản xuất": "",
+        "Serial Number": "321SB22",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.39.73",
+        "MAC Address": "B0:83:FE:4E:3F:4C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T03:15:45",
+      "updatedAt": "2026-06-12T03:15:45"
     }
   ]
 }
