@@ -1925,6 +1925,37 @@
       ],
       "createdAt": "2026-06-12T04:41:12",
       "updatedAt": "2026-06-12T04:41:12"
+    },
+    {
+      "id": "9700e26539564f42b9f4997811ba467f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "88",
+        "Tên Bưu cục": "Văn phòng",
+        "Họ và tên người sử dụng": "Đào Minh Phong",
+        "Mã HRM": "00000880",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G8L5TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "599 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.70.57",
+        "MAC Address": "B8:85:84:AB:1E:D0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T06:55:04",
+      "updatedAt": "2026-06-12T06:55:04"
     }
   ]
 }
