@@ -2281,6 +2281,43 @@
       ],
       "createdAt": "2026-06-12T09:36:43",
       "updatedAt": "2026-06-12T09:36:43"
+    },
+    {
+      "id": "a75a29e134b04cbc8b686557f13e07ff",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "921032",
+        "Tên Bưu cục": "BCVH RACH GIA",
+        "Họ và tên người sử dụng": "BCVH RACH GIA",
+        "Mã HRM": "921032",
+        "Bộ phận / Phòng ban": "BCVH RACH GIA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QIU0AI3",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z2CB",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.95.47.81",
+        "MAC Address": "E8:80:88:C3:C4:E5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:38:40",
+      "updatedAt": "2026-06-12T09:38:40"
     }
   ]
 }
