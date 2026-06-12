@@ -981,6 +981,37 @@
       ],
       "createdAt": "2026-06-12T01:20:12",
       "updatedAt": "2026-06-12T01:20:12"
+    },
+    {
+      "id": "e8982d48a9524438a33b3b53f6c350aa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "920100",
+        "Tên Bưu cục": "bc khai thac",
+        "Họ và tên người sử dụng": "bc khai thac",
+        "Mã HRM": "92010009",
+        "Bộ phận / Phòng ban": "bc khai thac",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KGG-TTKTVC-DOTU",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z19W",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "235 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.104",
+        "MAC Address": "08:9D:F4:58:4C:A6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T01:22:29",
+      "updatedAt": "2026-06-12T01:22:29"
     }
   ]
 }
