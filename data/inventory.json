@@ -1579,6 +1579,43 @@
       ],
       "createdAt": "2026-06-12T02:35:41",
       "updatedAt": "2026-06-12T02:35:41"
+    },
+    {
+      "id": "5bc9089b9b5446ddabef3aad75ecd1b6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883880",
+        "Tên Bưu cục": "VHX LONG BÌNH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ PHƯƠNG HÀ",
+        "Mã HRM": "00001376",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ KHÁNH BÌNH NHƠN HỘI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-JIDG9NL",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z189",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.1.134",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANNON",
+          "serial": "2900"
+        }
+      ],
+      "createdAt": "2026-06-12T02:54:09",
+      "updatedAt": "2026-06-12T02:54:09"
     }
   ]
 }
