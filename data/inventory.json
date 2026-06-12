@@ -2055,6 +2055,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:40:14",
       "updatedAt": "2026-06-12T08:40:14"
+    },
+    {
+      "id": "2e2528b65b4c46e7ba2183d02bff7883",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8813",
+        "Tên Xã": "BA CHÚC",
+        "Mã Bưu cục": "884371",
+        "Tên Bưu cục": "VHX BA CHÚC",
+        "Họ và tên người sử dụng": "PHẠM THỊ BẢO CHÂU",
+        "Mã HRM": "00265828",
+        "Bộ phận / Phòng ban": "GD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NK9PM5G",
+        "Loại máy": "Desktop",
+        "Hãng": "VSPTECH",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "22:31:5C:04:02:F5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:45:27",
+      "updatedAt": "2026-06-12T09:45:27"
     }
   ]
 }
