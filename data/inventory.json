@@ -2722,6 +2722,43 @@
       ],
       "createdAt": "2026-06-12T10:00:29",
       "updatedAt": "2026-06-12T10:00:29"
+    },
+    {
+      "id": "712b9abf22fb4be885ecafa1e407e002",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883717",
+        "Tên Bưu cục": "VXH Vĩnh Mỹ",
+        "Họ và tên người sử dụng": "Lê Hồng Phát",
+        "Mã HRM": "00226029",
+        "Bộ phận / Phòng ban": "Nhân viên 2 bưu điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "883717-LHPHAT",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.42.18",
+        "MAC Address": "D0:27:88:DB:7F:1B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-350B",
+          "serial": "XP350B-BU2308290083"
+        }
+      ],
+      "createdAt": "2026-06-12T10:06:46",
+      "updatedAt": "2026-06-12T10:06:46"
     }
   ]
 }
