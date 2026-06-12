@@ -1768,6 +1768,48 @@
       ],
       "createdAt": "2026-06-12T03:32:23",
       "updatedAt": "2026-06-12T03:32:23"
+    },
+    {
+      "id": "f0b48bb99e4544b4abd0ab40743546c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883090",
+        "Tên Bưu cục": "Châu Đốc",
+        "Họ và tên người sử dụng": "Phạm Tuyết Hồng",
+        "Mã HRM": "00000890",
+        "Bộ phận / Phòng ban": "Bưu cục Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-3F0TCEP",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G2020 @ 2.90GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.94.39.26",
+        "MAC Address": "14:DA:E9:DC:67:1C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-350 - Xprintex",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol -  Z3EH8V",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:57:20",
+      "updatedAt": "2026-06-12T03:57:20"
     }
   ]
 }
