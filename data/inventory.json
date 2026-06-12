@@ -1012,6 +1012,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T01:22:29",
       "updatedAt": "2026-06-12T01:22:29"
+    },
+    {
+      "id": "e3c9325b6d8946d48868d6ecf7eae211",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "883000",
+        "Tên Bưu cục": "Châu Đốc",
+        "Họ và tên người sử dụng": "Quách Phương Uyên",
+        "Mã HRM": "00104410",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-CDC-TUANLA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE123XY8C",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.39.55",
+        "MAC Address": "00:68:EB:CB:EA:6C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T01:39:30",
+      "updatedAt": "2026-06-12T01:39:30"
     }
   ]
 }
