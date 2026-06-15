@@ -2796,6 +2796,43 @@
       ],
       "createdAt": "2026-06-12T10:13:54",
       "updatedAt": "2026-06-12T10:13:54"
+    },
+    {
+      "id": "446c08b1ca024ac7a76abdd45cdfbffe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8812",
+        "Tên Bưu cục": "Bưu Điện Xã An Phú",
+        "Họ và tên người sử dụng": "Lương Thị Hồng Đào",
+        "Mã HRM": "00113076",
+        "Bộ phận / Phòng ban": "Văn Phòng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-07KS7M4",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.94.41.17",
+        "MAC Address": "00:E0:4C:03:0E:14"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T04:15:59",
+      "updatedAt": "2026-06-15T04:15:59"
     }
   ]
 }
