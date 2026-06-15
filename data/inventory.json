@@ -2833,6 +2833,43 @@
       ],
       "createdAt": "2026-06-15T04:15:59",
       "updatedAt": "2026-06-15T04:15:59"
+    },
+    {
+      "id": "71047ef568c9429786252c35b2ac5dc5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8812",
+        "Tên Bưu cục": "Bưu điện An Phú",
+        "Họ và tên người sử dụng": "Liêu Kim Tuyến",
+        "Mã HRM": "00000750",
+        "Bộ phận / Phòng ban": "Văn phòng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "AGG-APU-TUYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP-Pavilion",
+        "Model": "KY720AA-AB4 p6118l",
+        "Năm sản xuất": "",
+        "Serial Number": "CNX932063H",
+        "CPU": "Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz",
+        "RAM": "4 GB",
+        "Ổ cứng": "298 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.94.41.8",
+        "MAC Address": "00:26:18:1A:A9:26"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Enterprise M406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T04:22:39",
+      "updatedAt": "2026-06-15T04:22:39"
     }
   ]
 }
